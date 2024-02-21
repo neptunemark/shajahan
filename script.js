@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/mian.jpeg",
+    profile_pic: "./image/arsalan.jpeg",
     profile_logo: "",
 
-    Name: "Mian ADIL",
-    designation: "",
-    des_link_text: "@Wafa Alain Tailoring & Embroidery ",
+    Name: "Arsalaan Siddiqui",
+    designation: "Manager",
+    des_link_text: "@National Point",
     des_link: "",
-    contact: "./contact/mian.vcf",
+    contact: "./contact/arsalan.vcf",
 };
 
 const contact ={
-    contact_no: "+971501492196",
-    whatsapp: "+971501492196",
-    location: "https://maps.app.goo.gl/X2zxpxA5fDaQhGcz6",
-    email: "Wafaalain.uae@gmail.com",
+    contact_no: "+971561560692",
+    whatsapp: "+971561560692",
+    location: "https://www.google.com/maps?cid=1181357520800774791&entry=gps",
+    email: "arsalaansiddiquie7060@gmail.com",
 };
 
 const profilelogo=[
@@ -31,11 +31,11 @@ const bannerImage={
 const links =[
     facebook={
     visibil: true,
-    link:"https://www.facebook.com/WafaAlain/"
+    link:"https://www.facebook.com/fbarshuu?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/nura.design/"
+    link:"https://www.instagram.com/arsalaanayazsiddiqui?igsh=dzNhZDJ1bm05ZGxm&amp;utm_source=qr"
   },
     skype={
     visibil: false,
@@ -62,7 +62,7 @@ const links =[
     link:"aiswaryafurnitureclt@gmail.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://maps.app.goo.gl/X2zxpxA5fDaQhGcz6"
   },
     telegram={
@@ -70,8 +70,8 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     youtube={
-    visibil: false,
-    link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
+    visibil: true,
+    link:"https://www.youtube.com/@NATIONALPOINT7"
   },
     pinterest={
     visibil: false,
@@ -82,7 +82,7 @@ const links =[
     link:"https://www.youtube.com/"
   },
     snapchat={
-    visibil: false,
-    link:"https://www.youtube.com/"
+    visibil: true,
+    link:"https://t.snapchat.com/Gh8tgQyX"
   },
 ];
