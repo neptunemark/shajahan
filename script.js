@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/arsalan.jpeg",
+    profile_pic: "./image/faheem.jpg",
     profile_logo: "",
 
-    Name: "Arsalaan Siddiqui",
-    designation: "Manager",
+    Name: "Faheem Ahmad",
+    designation: "Company Owner",
     des_link_text: "@National Point",
     des_link: "",
-    contact: "./contact/arsalan.vcf",
+    contact: "./contact/faheem.vcf",
 };
 
 const contact ={
-    contact_no: "+971561560692",
-    whatsapp: "+971561560692",
+    contact_no: "+971555702102",
+    whatsapp: "+971555702102",
     location: "https://www.google.com/maps?cid=1181357520800774791&entry=gps",
-    email: "arsalaansiddiquie7060@gmail.com",
+    email: "nationalpoint7@gmail.com",
 };
 
 const profilelogo=[
@@ -31,11 +31,11 @@ const bannerImage={
 const links =[
     facebook={
     visibil: true,
-    link:"https://www.facebook.com/fbarshuu?mibextid=LQQJ4d"
+    link:"https://m.facebook.com/people/National-Point/61555328157061/"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/arsalaanayazsiddiqui?igsh=dzNhZDJ1bm05ZGxm&amp;utm_source=qr"
+    link:"https://www.instagram.com/nationalpoint7/?igsh=MTZvNGIzajZrMnQ2bw%3D%3D&amp;utm_source=qr"
   },
     skype={
     visibil: false,
@@ -62,8 +62,8 @@ const links =[
     link:"aiswaryafurnitureclt@gmail.com"
   },
     google={
-    visibil: false,
-    link:"https://maps.app.goo.gl/X2zxpxA5fDaQhGcz6"
+    visibil: true,
+    link:"https://g.co/kgs/iYGMWK3"
   },
     telegram={
     visibil: false,
@@ -83,6 +83,6 @@ const links =[
   },
     snapchat={
     visibil: true,
-    link:"https://t.snapchat.com/Gh8tgQyX"
+    link:"https://www.snapchat.com/add/nationalpoint7"
   },
 ];
