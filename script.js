@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/faheem.jpg",
+    profile_pic: "./image/rifaiee.jpeg",
     profile_logo: "",
 
-    Name: "Faheem Ahmad",
-    designation: "Company Owner",
-    des_link_text: "@National Point",
+    Name: "Muhammed Rifaiee BM",
+    designation: "Director",
+    des_link_text: "@Bagdad group",
     des_link: "",
-    contact: "./contact/faheem.vcf",
+    contact: "./contact/Rifaiee.vcf",
 };
 
 const contact ={
-    contact_no: "+971555702102",
-    whatsapp: "+971555702102",
-    location: "https://www.google.com/maps?cid=1181357520800774791&entry=gps",
-    email: "nationalpoint7@gmail.com",
+    contact_no: "+919946930566",
+    whatsapp: "+919946930566",
+    location: "",
+    email: "Muhammedrifaiee@gmail.com",
 };
 
 const profilelogo=[
@@ -30,12 +30,12 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://m.facebook.com/people/National-Point/61555328157061/"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/nationalpoint7/?igsh=MTZvNGIzajZrMnQ2bw%3D%3D&amp;utm_source=qr"
+    link:"https://www.instagram.com/rifa_bagdadi/"
   },
     skype={
     visibil: false,
@@ -62,7 +62,7 @@ const links =[
     link:"aiswaryafurnitureclt@gmail.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://g.co/kgs/iYGMWK3"
   },
     telegram={
@@ -70,7 +70,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     youtube={
-    visibil: true,
+    visibil: false,
     link:"https://www.youtube.com/@NATIONALPOINT7"
   },
     pinterest={
@@ -82,7 +82,7 @@ const links =[
     link:"https://www.youtube.com/"
   },
     snapchat={
-    visibil: true,
+    visibil: false,
     link:"https://www.snapchat.com/add/nationalpoint7"
   },
 ];
