@@ -2,7 +2,7 @@ const person = {
     profile_pic: "./image/fayis.jpeg",
     profile_logo: "",
 
-    Name: "محمد فايز فني ",
+    Name: "محمد فايز فني",
     designation: "",
     des_link_text: "",
     des_link: "",
