@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/fayis.jpeg",
+    profile_pic: "./image/jamsheer.jpeg",
     profile_logo: "",
 
-    Name: "محمد فايز فني",
-    designation: "",
+    Name: "Muhammed Jamsheer",
+    designation: "Marketing associate",
     des_link_text: "",
     des_link: "",
-    contact: "./contact/محمد فايز فني.vcf",
+    contact: "./contact/jamsheer.vcf",
 };
 
 const contact ={
-    contact_no: "+96567062653",
-    whatsapp: "+96567062653",
-    location: "",
-    email: "fayizkr27@gmail.com",
+    contact_no: "+971563762623",
+    whatsapp: "+971563762623",
+    location: "https://g.co/kgs/QQEir9",
+    email: "muhammedjamsheer112@gmail.com",
 };
 
 const profilelogo=[
@@ -35,7 +35,7 @@ const links =[
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/faiz_kr?igsh=NWVxOHd5ZGd1c2p5"
+    link:"https://www.instagram.com/f6_464?igsh=MW03bXozaWlmc3Btbw%3D%3D&amp;utm_source=qr"
   },
     skype={
     visibil: false,
@@ -46,8 +46,8 @@ const links =[
     link:"https://neptunemark.com/"
   },
     linkedin={
-    visibil: false,
-    link:"https://www.linkedin.com/in/muhammed-minhaj-p-a-6b329724a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    visibil: true,
+    link:"https://www.linkedin.com/in/muhammed-jamsheer-854631298"
   },
     behance={
     visibil: false,
@@ -82,7 +82,7 @@ const links =[
     link:"https://www.youtube.com/"
   },
     snapchat={
-    visibil: true,
+    visibil: false,
     link:"https://www.snapchat.com/add/faiz_kr?share_id=9Cy8d3b5HDI&locale=en-US"
   },
 ];
