@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/rifaiee.jpeg",
+    profile_pic: "./image/fayis.jpeg",
     profile_logo: "",
 
-    Name: "Muhammed Rifaiee BM",
-    designation: "Director",
-    des_link_text: "@Bagdad group",
+    Name: "محمد فايز فني ",
+    designation: "",
+    des_link_text: "",
     des_link: "",
-    contact: "./contact/Rifaiee.vcf",
+    contact: "./contact/محمد فايز فني.vcf",
 };
 
 const contact ={
-    contact_no: "+919946930566",
-    whatsapp: "+919946930566",
+    contact_no: "+96567062653",
+    whatsapp: "+96567062653",
     location: "",
-    email: "Muhammedrifaiee@gmail.com",
+    email: "fayizkr27@gmail.com",
 };
 
 const profilelogo=[
@@ -35,7 +35,7 @@ const links =[
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/rifa_bagdadi/"
+    link:"https://www.instagram.com/faiz_kr?igsh=NWVxOHd5ZGd1c2p5"
   },
     skype={
     visibil: false,
@@ -82,7 +82,7 @@ const links =[
     link:"https://www.youtube.com/"
   },
     snapchat={
-    visibil: false,
-    link:"https://www.snapchat.com/add/nationalpoint7"
+    visibil: true,
+    link:"https://www.snapchat.com/add/faiz_kr?share_id=9Cy8d3b5HDI&locale=en-US"
   },
 ];
