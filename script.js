@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/jamsheer.jpeg",
+    profile_pic: "./image/shajahan.jpeg",
     profile_logo: "",
 
-    Name: "Muhammed Jamsheer",
-    designation: "Marketing associate",
-    des_link_text: "",
-    des_link: "",
-    contact: "./contact/jamsheer.vcf",
+    Name: "Shajahan Abdul kadar",
+    designation: "CMO",
+    des_link_text: "@Neptunemark",
+    des_link: "https://neptunemark.com./", 
+    contact: "./contact/Shajahan.vcf",
 };
 
 const contact ={
-    contact_no: "+971563762623",
-    whatsapp: "+971563762623",
-    location: "https://g.co/kgs/QQEir9",
-    email: "muhammedjamsheer112@gmail.com",
+    contact_no: "+966571487183",
+    whatsapp: "+91996167405",
+    location: "",
+    email: "neptunemarkindia@gmail.com",
 };
 
 const profilelogo=[
@@ -30,12 +30,12 @@ const bannerImage={
 
 const links =[
     facebook={
-    visibil: false,
-    link:"https://m.facebook.com/people/National-Point/61555328157061/"
+    visibil: true,
+    link:"https://www.facebook.com/shajahan.abdu.77?mibextid=LQQJ4d"
   },
     instagram={
     visibil: true,
-    link:"https://www.instagram.com/f6_464?igsh=MW03bXozaWlmc3Btbw%3D%3D&amp;utm_source=qr"
+    link:"https://www.instagram.com/shajahaan.___?igsh=dG0zeWNlZmd6ZnZm&utm_source=qr"
   },
     skype={
     visibil: false,
@@ -46,7 +46,7 @@ const links =[
     link:"https://neptunemark.com/"
   },
     linkedin={
-    visibil: true,
+    visibil: false,
     link:"https://www.linkedin.com/in/muhammed-jamsheer-854631298"
   },
     behance={
