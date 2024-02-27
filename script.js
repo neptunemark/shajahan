@@ -11,7 +11,7 @@ const person = {
 
 const contact ={
     contact_no: "+966571487183",
-    whatsapp: "+91996167405",
+    whatsapp: "+919961674051",
     location: "",
     email: "neptunemarkindia@gmail.com",
 };
